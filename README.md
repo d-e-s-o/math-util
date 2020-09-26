@@ -5,6 +5,7 @@ math-util
 =========
 
 - [Documentation][docs-rs]
+- [Changelog](CHANGELOG.md)
 
 A crate providing miscellaneous mathematical utility functions.
 
